@@ -1,0 +1,10 @@
+bear
+bigcat
+crocodile
+elephant
+hippo
+komodo
+rhino
+scorpion
+snake
+wolf
